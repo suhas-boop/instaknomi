@@ -28,7 +28,7 @@ cd {directory_name}
 ```
 npm install
 ```
-4. Download [ganache] (https://www.trufflesuite.com/ganache) by clicking here.
+4. Download [ganache](https://www.trufflesuite.com/ganache) by clicking here.
 
 5. Now run the ganache and open a quickstart workplace.
 
@@ -40,13 +40,13 @@ npm install
 	1. Go to import on the account icon on top-right corner
 		and click on "import"
 
-	![image]()
+	![image](IMAGES/metamask.png)
 
 
 
 
 	2. In Ganache, click on the key icon and copy the private key ,and upload it to MetaMask
-	![image]()
+	![image](IMAGES/image_ganache.png)
 
 9. Now run test command to check whether our smart contract is deploying without errors in ur cmd.
 ```
