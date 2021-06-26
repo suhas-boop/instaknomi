@@ -1,0 +1,15 @@
+{
+  "short_name": "instaKnomi",
+  "name": "instaknomi",
+  "icons": [
+    {
+      "src": "photo.png",
+      "sizes": "3261 x 3351",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
