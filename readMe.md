@@ -67,6 +67,9 @@ npm run start
 
 13. Now play around by uploading photos ,tipping around those posts you like and have fun.
 
+14. Here is the sample out of our project and the red box is where you tip 
+	![Output_image](IMAGES/output.jpg)
+
 
 THANK YOU AND ENJOY!!
 
